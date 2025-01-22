@@ -34,6 +34,40 @@ public class RobotInstructions  {
 		robot.forward(23);
 		robot.turnRight(90);
 		robot.forward(80);
+		robot.turnRight(90);
+		robot.forward(140);
+		robot.turnLeft(135);
+		robot.forward(140);
+		robot.turnRight(90);
+		robot.forward(140);
+		robot.turnLeft(135);
+		robot.forward(140);
+		robot.turnRight(60);
+        robot.forward(140);
+        robot.turnLeft(110);
+        robot.forward(150);
+        robot.turnRight(50);
+        robot.forward(140);
+        robot.turnLeft(135);
+        robot.forward(160);
+        robot.turnRight(90);
+        robot.forward(140);
+        robot.turnLeft(135);
+        robot.forward(230);
+        robot.turnRight(90);
+        robot.forward(140);
+        
+        
+       
+        
+		
+      
+		
+		
+		
+		
+	
+	
 		
 	}
 
