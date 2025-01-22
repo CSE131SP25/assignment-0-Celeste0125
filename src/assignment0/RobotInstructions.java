@@ -13,7 +13,7 @@ public class RobotInstructions  {
 	 * For now, please accept that the instructions below cause the support.robot to
 	 * move forward, turn left, or turn right.
 	 */
-	public void act(RobotMotionAdapter robot) {
+	public void act(RobotMotionAdapter robot) throws InterruptedException {
 		
 		/**
 		 * Each of the following lines of code executes in turn.  The
@@ -34,6 +34,7 @@ public class RobotInstructions  {
 		robot.forward(23);
 		robot.turnRight(90);
 		robot.forward(80);
+		
 	}
 
 }
